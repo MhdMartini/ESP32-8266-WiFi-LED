@@ -1,3 +1,6 @@
+"""
+Mobile User
+"""
 from kivy.lang import Builder
 from kivymd.uix.boxlayout import MDBoxLayout
 from kivymd.app import MDApp
